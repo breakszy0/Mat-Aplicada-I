@@ -1,0 +1,9 @@
+FUNCION ------------------------------------------------------------> Representaciones  ------------------------------> ELEMENTOS
+relacion de dependencia entre 3 variables                             *Algebraica "Formula"                            *Variables (Unidad de medida)
+f(x) -> variable dependiente                                          *Tabla de datos                                  *Dominio: DomF ---> Valores que toma la Variable Independiente 
+x -> variable independiente                                           *Grafico -> Plano cartesiano                     *Recorrido: RecF ----> Valores que toma la Variable Dependiente
+
+H(a) =2,3*A+48 : (A) -> Variable independiente -> H(a) Variable dependiente
+
+Variable Independiente siempre va en el eje X
+Variable dependiente siempre va en el eje Y
