@@ -7,3 +7,12 @@ H(a) =2,3*A+48 : (A) -> Variable independiente -> H(a) Variable dependiente
 
 Variable Independiente siempre va en el eje X
 Variable dependiente siempre va en el eje Y
+
+
+ X            Y         Restricciones ---> Funcion Radical
+(6)          (6)         f(x) - √x
+(3)  f(x)    (7)         DomF = R + {0} 
+(8)          (9)         Division
+(5)          (12)       h(x) = x + 5
+                               x - 3
+                            Domh = R - {3}
