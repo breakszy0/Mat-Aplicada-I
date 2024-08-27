@@ -16,3 +16,16 @@ Variable dependiente siempre va en el eje Y
 (5)          (12)       h(x) = x + 5
                                x - 3
                             Domh = R - {3}
+
+
+
+
+
+Variable Independiente: (x,t,n,a)
+Variable Dependiente: (f(x),f(t),f(n)
+Dominio los valores de la V independiente
+Recorrido los valores de la V dependiente
+Matplotlib.pyplop (hacer graficos)
+Numpy (Trabajar algorismos)
+
+Ecuaciones no lineales 
